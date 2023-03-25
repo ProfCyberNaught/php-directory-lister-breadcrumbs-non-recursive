@@ -129,7 +129,7 @@ This single file implementation is minified to reduce server load, while still p
 
 This **PHP Directory Lister** is _not recursive_, meaning it has the benefit of **only displaying content from the directory** where the code is placed. However, it provides **21 unique features** that can be **tailored** to your exact **requirements**. The **directories** are listed at the top, with **files** displayed underneath, in **alphabetical order**, making it **easy to navigate** your _files and folders_.
 
-At only **11.6KB in size**, this **PHP Directory Lister** is _lightweight_, _fast_, and _perfect_ for localhost users who are seeking a more **professional-looking directory lister**. It's an **ideal solution** for home projects, allowing you to list all your **files or project folders** in your localhost, with the ability to use different **customised settings** for each project.
+At only **11.8KB in size**, this **PHP Directory Lister** is _lightweight_, _fast_, and _perfect_ for localhost users who are seeking a more **professional-looking directory lister**. It's an **ideal solution** for home projects, allowing you to list all your **files or project folders** in your localhost, with the ability to use different **customised settings** for each project.
 
 You are encourage to **fork and star the repository** to support this **open-source initiative**, and look forward to seeing the innovative ways in which this **PHP Directory Lister** can be utilised. Thank you for choosing this **PHP Directory Lister** - be confident that you will find it to be an **invaluable tool** for **listing your files and folders**.
 
