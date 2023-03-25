@@ -235,27 +235,27 @@ The **PHP Directory Lister** single file solution comes with many customisable o
 
 Here is a list of all the options available within the single file solution at the top:
 
-- $display_page_title=TRUE;
-- $display_page_subtitle=TRUE;
-- $display_breadcrumbs=TRUE;
-- $display_icons=TRUE;
-- $display_file_sizes=TRUE;
-- $display_last_modified_info=TRUE;
-- $display_link_hover_title_tags=TRUE;
-- $display_link_hover_bar=TRUE;
-- $display_back_to_top_link=TRUE;
-- $display_copyright_notice=TRUE;
-- $enable_darkmode_theme=FALSE;
-- $darkmode_colour="#5647ae";
-- $page_title="PHP Directory Lister";
-- $page_subtitle="by ProfCyberNaught";
-- $copyright_display_name="ProfCyberNaught";
-- $copyright_url="https:// github.com/ProfCyberNaught";
-- $copyright_link_title_tag="ProfCyberNaught on GitHub";
-- $copyright_year_start="";
-- $copyright_year_end="";
-- $exclude=array('.','..','.DS_Store','.git','.gitmodules','.gitignore','node_modules');
-- $open_links_new_tab=FALSE;
+- `$display_page_title=TRUE;`
+- `$display_page_subtitle=TRUE;`
+- `$display_breadcrumbs=TRUE;`
+- `$display_icons=TRUE;`
+- `$display_file_sizes=TRUE;`
+- `$display_last_modified_info=TRUE;`
+- `$display_link_hover_title_tags=TRUE;`
+- `$display_link_hover_bar=TRUE;`
+- `$display_back_to_top_link=TRUE;`
+- `$display_copyright_notice=TRUE;`
+- `$enable_darkmode_theme=FALSE;`
+- `$darkmode_colour="#5647ae";`
+- `$page_title="PHP Directory Lister";`
+- `$page_subtitle="by ProfCyberNaught";`
+- `$copyright_display_name="ProfCyberNaught";`
+- `$copyright_url="https:// github.com/ProfCyberNaught";`
+- `$copyright_link_title_tag="ProfCyberNaught on GitHub";`
+- `$copyright_year_start="";`
+- `$copyright_year_end="";`
+- `$exclude=array('.','..','.DS_Store','.git','.gitmodules','.gitignore','node_modules');`
+- `$open_links_new_tab=FALSE;`
 
 <!-- HELP NOTICE: All sections must end with the 'back to top' link -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
